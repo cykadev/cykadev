@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cykadev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cykadev&repo=minireceipt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
